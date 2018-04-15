@@ -1,0 +1,10 @@
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\bin\Debug\netcoreapp2.0\algorithms-Datastructures.deps.json
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\bin\Debug\netcoreapp2.0\algorithms-Datastructures.runtimeconfig.json
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\bin\Debug\netcoreapp2.0\algorithms-Datastructures.runtimeconfig.dev.json
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\bin\Debug\netcoreapp2.0\algorithms-Datastructures.dll
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\bin\Debug\netcoreapp2.0\algorithms-Datastructures.pdb
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\obj\Debug\netcoreapp2.0\algorithms-Datastructures.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\obj\Debug\netcoreapp2.0\algorithms-Datastructures.AssemblyInfoInputs.cache
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\obj\Debug\netcoreapp2.0\algorithms-Datastructures.AssemblyInfo.cs
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\obj\Debug\netcoreapp2.0\algorithms-Datastructures.dll
+C:\Users\steve\Documents\GitKraken\algorithms-Datastructures\obj\Debug\netcoreapp2.0\algorithms-Datastructures.pdb
